@@ -1,6 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using TodoApp.Domain.Models;
+﻿using Grup_2_Project.Domain.Models;
+using Microsoft.AspNetCore.Mvc;
 using TodoApp.Domain.Services;
 
 namespace TodoApp.API.Controllers
@@ -23,7 +22,7 @@ namespace TodoApp.API.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<TodoItem> Get(int id)
+        public ActionResult<TodoItem> Get(Guid id)
         {
             var item = _todoService.GetById(id);
             if (item == null)
@@ -36,30 +35,14 @@ namespace TodoApp.API.Controllers
         [HttpPost]
         public ActionResult Post([FromBody] TodoItem item)
         {
-            _todoService.Add(item);
+            _todoService.Add(item, _todoService.Get_nextId());
             return CreatedAtAction(nameof(Get), new { id = item.Id }, item);
         }
 
-        [HttpPut("{id}")]
-        public IActionResult Put(int id, [FromBody] TodoItem item)
-        {
-            if (id != item.Id)
-            {
-                return BadRequest();
-            }
-
-            var existingItem = _todoService.GetById(id);
-            if (existingItem == null)
-            {
-                return NotFound();
-            }
-
-            _todoService.Update(item);
-            return NoContent();
-        }
+       
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(Guid id)
         {
             var item = _todoService.GetById(id);
             if (item == null)

@@ -4,8 +4,10 @@
     "\\Grup-2-Project",
     "\\Grup-2-Project.API",
     "\\Grup-2-Project.API\\Controllers",
-    "\\Grup-2-Project.Domain"
+    "\\Grup-2-Project.Domain",
+    "\\Grup-2-Project.Domain\\Models",
+    "\\Grup-2-Project.Domain\\Services"
   ],
-  "SelectedNode": "\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
+  "SelectedNode": "\\Grup-2-Project.API\\Controllers\\TodoController.cs",
   "PreviewInSolutionExplorer": false
 }

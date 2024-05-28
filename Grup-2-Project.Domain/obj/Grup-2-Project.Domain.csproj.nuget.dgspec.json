@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {}
+    "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {
+    "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj",
+        "projectUniqueName": "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj",
         "projectName": "Grup-2-Project.Domain",
-        "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj",
-        "packagesPath": "C:\\Users\\MERVE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\obj\\",
+        "projectPath": "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj",
+        "packagesPath": "C:\\Users\\Müberra\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MERVE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Müberra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

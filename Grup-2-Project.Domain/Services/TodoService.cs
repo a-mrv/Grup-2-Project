@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using TodoApp.Domain.Models;
+﻿using Grup_2_Project.Domain.Models;
 
 namespace TodoApp.Domain.Services
 {
@@ -15,14 +12,19 @@ namespace TodoApp.Domain.Services
             return _todoItems;
         }
 
-        public TodoItem GetById(int id)
+        public TodoItem GetById(Guid id)
         {
             return _todoItems.FirstOrDefault(t => t.Id == id);
         }
 
-        public void Add(TodoItem item)
+        public int Get_nextId()
         {
-            item.Id = _nextId++;
+            return _nextId;
+        }
+
+        public void Add(TodoItem item, Guid _nextId)
+        {
+            item.Id = _nextId;
             _todoItems.Add(item);
         }
 
@@ -39,13 +41,18 @@ namespace TodoApp.Domain.Services
             }
         }
 
-        public void Delete(int id)
+        public void Delete(Guid id)
         {
             var item = _todoItems.FirstOrDefault(t => t.Id == id);
             if (item != null)
             {
                 _todoItems.Remove(item);
             }
+        }
+
+        public void Add(TodoItem item, int v)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -14,6 +14,6 @@ namespace Grup_2_Project.Domain.Models
         public bool IsCompleted { get; set; }
         public DateTime DueDate { get; set; }
         public int Priority { get; set; }
-
+        public int Guid { get; internal set; }
     }
 }
