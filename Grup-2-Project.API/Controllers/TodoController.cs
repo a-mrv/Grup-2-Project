@@ -1,12 +1,12 @@
-﻿using Grup_2_Project.Domain.Models;
-using Grup_2_Project.Domain.Services;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using TodoApp.Domain.Models;
+using TodoApp.Domain.Services;
 
-namespace Grup_2_Project.API.Controllers
+namespace TodoApp.API.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class TodoController : ControllerBase
     {
         private readonly TodoService _todoService;
@@ -16,49 +16,59 @@ namespace Grup_2_Project.API.Controllers
             _todoService = todoService;
         }
 
-        public async Task<IActionResult> Index()
+        [HttpGet]
+        public ActionResult<IEnumerable<TodoItem>> Get()
         {
-            var items = await _todoService.GetTodoItemsAsync();
-            return ViewResult(items);
+            return Ok(_todoService.GetAll());
         }
 
-        private IActionResult ViewResult(List<TodoItem> items)
+        [HttpGet("{id}")]
+        public ActionResult<TodoItem> Get(int id)
         {
-            throw new NotImplementedException();
-        }
-
-        [HttpPost]
-        public async Task<IActionResult> Add(TodoItem item)
-        {
-            if (ModelState.IsValid)
+            var item = _todoService.GetById(id);
+            if (item == null)
             {
-                await _todoService.AddTodoItemAsync(item);
-                return RedirectToAction("Index");
+                return NotFound();
             }
-            return ViewResult(item);
-        }
-
-        private IActionResult ViewResult(TodoItem item)
-        {
-            throw new NotImplementedException();
+            return Ok(item);
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(TodoItem item)
+        public ActionResult Post([FromBody] TodoItem item)
         {
-            if (ModelState.IsValid)
+            _todoService.Add(item);
+            return CreatedAtAction(nameof(Get), new { id = item.Id }, item);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Put(int id, [FromBody] TodoItem item)
+        {
+            if (id != item.Id)
             {
-                await _todoService.UpdateTodoItemAsync(item);
-                return RedirectToAction("Index");
+                return BadRequest();
             }
-            return (IActionResult)item;
+
+            var existingItem = _todoService.GetById(id);
+            if (existingItem == null)
+            {
+                return NotFound();
+            }
+
+            _todoService.Update(item);
+            return NoContent();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> Delete(int id)
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
         {
-            await _todoService.DeleteTodoItemAsync(id);
-            return RedirectToAction("Index");
+            var item = _todoService.GetById(id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+
+            _todoService.Delete(id);
+            return NoContent();
         }
     }
 }

@@ -35,3 +35,6 @@ C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\Grup-2-Project.API.pdb
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\Grup-2-Project.API.genruntimeconfig.cache
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\ref\Grup-2-Project.API.dll
+D:\source\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\Grup-2-Project.API.dll
+D:\source\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\refint\Grup-2-Project.API.dll
+D:\source\Grup-2-Project\Grup-2-Project.API\obj\Debug\net8.0\Grup-2-Project.API.pdb

@@ -11,3 +11,6 @@ C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\n
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\refint\Grup-2-Project.Domain.dll
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\Grup-2-Project.Domain.pdb
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\ref\Grup-2-Project.Domain.dll
+D:\source\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\Grup-2-Project.Domain.dll
+D:\source\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\refint\Grup-2-Project.Domain.dll
+D:\source\Grup-2-Project\Grup-2-Project.Domain\obj\Debug\net8.0\Grup-2-Project.Domain.pdb

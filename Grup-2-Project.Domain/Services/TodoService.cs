@@ -1,46 +1,50 @@
-﻿using Grup_2_Project.Domain.Models;
-using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using TodoApp.Domain.Models;
 
-namespace Grup_2_Project.Domain.Services
+namespace TodoApp.Domain.Services
 {
     public class TodoService
     {
-        private readonly TodoContext _context;
+        private readonly List<TodoItem> _todoItems = new List<TodoItem>();
+        private int _nextId = 1;
 
-        public TodoService(TodoContext context)
+        public IEnumerable<TodoItem> GetAll()
         {
-            _context = context;
+            return _todoItems;
         }
 
-        public async Task<List<TodoItem>> GetTodoItemsAsync()
+        public TodoItem GetById(int id)
         {
-            return await _context.TodoItems.ToListAsync();
+            return _todoItems.FirstOrDefault(t => t.Id == id);
         }
 
-        public async Task AddTodoItemAsync(TodoItem item)
+        public void Add(TodoItem item)
         {
-            _context.TodoItems.Add(item);
-            await _context.SaveChangesAsync();
+            item.Id = _nextId++;
+            _todoItems.Add(item);
         }
 
-        public async Task UpdateTodoItemAsync(TodoItem item)
+        public void Update(TodoItem item)
         {
-            _context.TodoItems.Update(item);
-            await _context.SaveChangesAsync();
+            var existingItem = _todoItems.FirstOrDefault(t => t.Id == item.Id);
+            if (existingItem != null)
+            {
+                existingItem.Title = item.Title;
+                existingItem.Description = item.Description;
+                existingItem.IsCompleted = item.IsCompleted;
+                existingItem.DueDate = item.DueDate;
+                existingItem.Priority = item.Priority;
+            }
         }
 
-        public async Task DeleteTodoItemAsync(int id)
+        public void Delete(int id)
         {
-            var item = await _context.TodoItems.FindAsync(id);
+            var item = _todoItems.FirstOrDefault(t => t.Id == id);
             if (item != null)
             {
-                _context.TodoItems.Remove(item);
-                await _context.SaveChangesAsync();
+                _todoItems.Remove(item);
             }
         }
     }
