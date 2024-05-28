@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Grup-2-Project.API.props" />
+</Project>
