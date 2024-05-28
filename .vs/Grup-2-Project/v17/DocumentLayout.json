@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|solutionrelative:grup-2-project.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|solutionrelative:grup-2-project.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -17,22 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.api\\grup-2-project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0607F6B5-AE60-42AD-B314-E30ADFCFB7FA}|Grup-2-Project.API\\Grup-2-Project.API.csproj|solutionrelative:grup-2-project.api\\grup-2-project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\dbcontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\dbcontext\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\grup-2-project.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71F0192C-0CB1-43DC-AACD-D7258C391B07}|Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj|solutionrelative:grup-2-project.domain\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Grup-2-Project.API",
+              "DocumentIndex": 6,
+              "Title": "Grup-2-Project.API.csproj",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
               "RelativeDocumentMoniker": "Grup-2-Project.API\\Grup-2-Project.API.csproj",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
               "RelativeToolTip": "Grup-2-Project.API\\Grup-2-Project.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-28T07:43:29.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T07:43:29.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Models\\User.cs",
               "RelativeDocumentMoniker": "Grup-2-Project.Domain\\Models\\User.cs",
@@ -85,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\appsettings.json",
               "RelativeDocumentMoniker": "Grup-2-Project.API\\appsettings.json",
@@ -93,38 +88,24 @@
               "RelativeToolTip": "Grup-2-Project.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-28T07:38:56.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T07:38:56.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Grup-2-Project.API\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Grup-2-Project.API\\Controllers\\TodoController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T07:34:50.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TodoContext.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\DBContext\\TodoContext.cs",
-              "RelativeDocumentMoniker": "Grup-2-Project.Domain\\DBContext\\TodoContext.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\DBContext\\TodoContext.cs",
-              "RelativeToolTip": "Grup-2-Project.Domain\\DBContext\\TodoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T07:30:23.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "TodoService.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Services\\TodoService.cs",
               "RelativeDocumentMoniker": "Grup-2-Project.Domain\\Services\\TodoService.cs",
@@ -137,13 +118,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "Grup-2-Project.Domain\\Models\\TodoItem.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Models\\TodoItem.cs",
               "RelativeToolTip": "Grup-2-Project.Domain\\Models\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T07:25:45.663Z",
               "EditorCaption": ""
