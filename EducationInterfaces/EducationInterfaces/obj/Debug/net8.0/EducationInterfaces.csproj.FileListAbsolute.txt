@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\bin\Debug\net8.0\EducationInterfaces.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\bin\Debug\net8.0\EducationInterfaces.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\bin\Debug\net8.0\EducationInterfaces.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\bin\Debug\net8.0\EducationInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\bin\Debug\net8.0\EducationInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\refint\EducationInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\EducationInterfaces.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EducationInterfaces\EducationInterfaces\obj\Debug\net8.0\ref\EducationInterfaces.dll

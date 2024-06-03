@@ -18,7 +18,7 @@ namespace LearningInterfaces.Concrete
         }
         public decimal CalculatePerimeter()
         {
-            return SideA + SideB;
+            return 2*(SideA + SideB);
         }
     }
 }
