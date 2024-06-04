@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\bin\Debug\net8.0\EnergyInterfaces.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\bin\Debug\net8.0\EnergyInterfaces.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\bin\Debug\net8.0\EnergyInterfaces.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\bin\Debug\net8.0\EnergyInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\bin\Debug\net8.0\EnergyInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\refint\EnergyInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\EnergyInterfaces.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\EnergyInterfaces\EnergyInterfaces\obj\Debug\net8.0\ref\EnergyInterfaces.dll

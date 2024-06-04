@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\concrate\\vak\u0131fbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\concrate\\vak\u0131fbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\abstraction\\igetcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ICSVConvertible.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
               "RelativeDocumentMoniker": "BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
               "RelativeToolTip": "BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:30:02.02Z",
               "EditorCaption": ""
@@ -59,12 +59,11 @@
               "RelativeToolTip": "BankInterface\\Concrate\\ZiraatBank.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:21:25.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:21:25.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Vak\u0131fBank.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Concrate\\Vak\u0131fBank.cs",
               "RelativeDocumentMoniker": "BankInterface\\Concrate\\Vak\u0131fBank.cs",
@@ -72,21 +71,19 @@
               "RelativeToolTip": "BankInterface\\Concrate\\Vak\u0131fBank.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:21:02.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:21:02.366Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BankInterface",
+              "Title": "BankInterface.csproj",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\BankInterface.csproj",
               "RelativeDocumentMoniker": "BankInterface\\BankInterface.csproj",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\BankInterface.csproj",
               "RelativeToolTip": "BankInterface\\BankInterface.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-04T06:19:57.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:19:57.805Z"
             },
             {
               "$type": "Document",
@@ -98,12 +95,11 @@
               "RelativeToolTip": "BankInterface\\Abstraction\\IGetCredit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T06:19:39.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T06:19:39.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Program.cs",
               "RelativeDocumentMoniker": "BankInterface\\Program.cs",

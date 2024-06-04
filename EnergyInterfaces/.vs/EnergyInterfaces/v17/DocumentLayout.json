@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\devices\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\devices\\washingmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\devices\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\devices\\refrigerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\devices\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\devices\\dishwasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\abstractions\\ienergycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\abstractions\\ienergycalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\energyinterfaces\\energyinterfaces\\energyinterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE26E53D-9FF9-40A1-9F75-A4B0319BD1A1}|EnergyInterfaces\\EnergyInterfaces.csproj|solutionrelative:energyinterfaces\\energyinterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dishwasher.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\Dishwasher.cs",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\Devices\\Dishwasher.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\Dishwasher.cs",
+              "RelativeToolTip": "EnergyInterfaces\\Devices\\Dishwasher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:22:38.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WashingMachine.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\WashingMachine.cs",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\Devices\\WashingMachine.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\WashingMachine.cs",
+              "RelativeToolTip": "EnergyInterfaces\\Devices\\WashingMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:22:09.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Refrigerator.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\Refrigerator.cs",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\Devices\\Refrigerator.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Devices\\Refrigerator.cs",
+              "RelativeToolTip": "EnergyInterfaces\\Devices\\Refrigerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:21:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnergyInterfaces",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\EnergyInterfaces.csproj",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\EnergyInterfaces.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\EnergyInterfaces.csproj",
+              "RelativeToolTip": "EnergyInterfaces\\EnergyInterfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T19:20:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnergyCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Abstractions\\IEnergyCalculation.cs",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\Abstractions\\IEnergyCalculation.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Abstractions\\IEnergyCalculation.cs",
+              "RelativeToolTip": "EnergyInterfaces\\Abstractions\\IEnergyCalculation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:20:25.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "EnergyInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EnergyInterfaces\\EnergyInterfaces\\Program.cs",
+              "RelativeToolTip": "EnergyInterfaces\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:18:01.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
