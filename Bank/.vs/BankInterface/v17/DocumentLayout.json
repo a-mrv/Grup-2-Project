@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\concrate\\vak\u0131fbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\concrate\\vak\u0131fbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\commaseperedvalue\\icsvconvertible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\abstraction\\igetcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\abstraction\\igetcredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\bankinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\bankinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bank\\bankinterface\\concrate\\ziraatbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BE92563-6C0A-4D1A-BA12-7B1393D93C81}|BankInterface\\BankInterface.csproj|solutionrelative:bankinterface\\concrate\\ziraatbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICSVConvertible.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
+              "RelativeDocumentMoniker": "BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
+              "RelativeToolTip": "BankInterface\\CommaSeperedValue\\ICSVConvertible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T08:30:02.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZiraatBank.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Concrate\\ZiraatBank.cs",
+              "RelativeDocumentMoniker": "BankInterface\\Concrate\\ZiraatBank.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Concrate\\ZiraatBank.cs",
+              "RelativeToolTip": "BankInterface\\Concrate\\ZiraatBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:21:25.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vak\u0131fBank.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Concrate\\Vak\u0131fBank.cs",
+              "RelativeDocumentMoniker": "BankInterface\\Concrate\\Vak\u0131fBank.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Concrate\\Vak\u0131fBank.cs",
+              "RelativeToolTip": "BankInterface\\Concrate\\Vak\u0131fBank.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:21:02.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankInterface",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\BankInterface.csproj",
+              "RelativeDocumentMoniker": "BankInterface\\BankInterface.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\BankInterface.csproj",
+              "RelativeToolTip": "BankInterface\\BankInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T06:19:57.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGetCredit.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Abstraction\\IGetCredit.cs",
+              "RelativeDocumentMoniker": "BankInterface\\Abstraction\\IGetCredit.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Abstraction\\IGetCredit.cs",
+              "RelativeToolTip": "BankInterface\\Abstraction\\IGetCredit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:19:39.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Program.cs",
+              "RelativeDocumentMoniker": "BankInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Bank\\BankInterface\\Program.cs",
+              "RelativeToolTip": "BankInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:15:54.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

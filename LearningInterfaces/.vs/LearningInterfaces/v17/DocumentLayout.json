@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\learninginterfaces\\learninginterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\learninginterfaces\\learninginterfaces\\concrete\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\concrete\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\learninginterfaces\\learninginterfaces\\concrete\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\concrete\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\learninginterfaces\\learninginterfaces\\abstractions\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\abstractions\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\learninginterfaces\\learninginterfaces\\learninginterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73BFE419-FC7B-4BDD-AC17-96C5DE99169C}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\learninginterfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Circle.cs",
+              "RelativeDocumentMoniker": "LearningInterfaces\\Concrete\\Circle.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Circle.cs",
+              "RelativeToolTip": "LearningInterfaces\\Concrete\\Circle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:45:33.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Rectangle.cs",
+              "RelativeDocumentMoniker": "LearningInterfaces\\Concrete\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Rectangle.cs",
+              "RelativeToolTip": "LearningInterfaces\\Concrete\\Rectangle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:25:26.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Abstractions\\IShape.cs",
+              "RelativeDocumentMoniker": "LearningInterfaces\\Abstractions\\IShape.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Abstractions\\IShape.cs",
+              "RelativeToolTip": "LearningInterfaces\\Abstractions\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:21:02.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LearningInterfaces",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\LearningInterfaces.csproj",
+              "RelativeDocumentMoniker": "LearningInterfaces\\LearningInterfaces.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\LearningInterfaces.csproj",
+              "RelativeToolTip": "LearningInterfaces\\LearningInterfaces.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T06:05:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Program.cs",
+              "RelativeDocumentMoniker": "LearningInterfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Program.cs",
+              "RelativeToolTip": "LearningInterfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:03:38.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -996,19 +996,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Müberra\\.nuget\\packages\\": {}
+    "C:\\Users\\MERVE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
+      "projectUniqueName": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
       "projectName": "Grup-2-Project.API",
-      "projectPath": "D:\\source\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
-      "packagesPath": "C:\\Users\\Müberra\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\Grup-2-Project\\Grup-2-Project.API\\obj\\",
+      "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\Grup-2-Project.API.csproj",
+      "packagesPath": "C:\\Users\\MERVE\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Müberra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MERVE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1022,8 +1022,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {
-              "projectPath": "D:\\source\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj"
+            "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj": {
+              "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Grup-2-Project.Domain\\Grup-2-Project.Domain.csproj"
             }
           }
         }
@@ -1067,7 +1067,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

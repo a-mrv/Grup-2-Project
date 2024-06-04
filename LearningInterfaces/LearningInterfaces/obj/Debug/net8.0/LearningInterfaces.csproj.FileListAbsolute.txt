@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\refint\LearningInterfaces.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\ref\LearningInterfaces.dll

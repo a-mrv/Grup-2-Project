@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\bin\Debug\net8.0\BankInterface.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\bin\Debug\net8.0\BankInterface.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\bin\Debug\net8.0\BankInterface.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\bin\Debug\net8.0\BankInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\bin\Debug\net8.0\BankInterface.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\refint\BankInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\BankInterface.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Bank\BankInterface\obj\Debug\net8.0\ref\BankInterface.dll
