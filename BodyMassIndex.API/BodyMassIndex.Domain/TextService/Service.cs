@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BodyMass.Domain.TextService
+namespace BodyMassIndex.Domain.TextService
 {
     public class Service
     {
-        public void WriteTextToFile(string fileName, string content)
+        public void SaveText (string line)
         {
-            using (StreamWriter writer = new StreamWriter(fileName))
+            string filePath ="body_logs.txt";
+            using (StreamWriter writer = new StreamWriter(filePath,true))
             {
-                writer.WriteLine(content);
+                writer.WriteLine(line);
             }
         }
     }

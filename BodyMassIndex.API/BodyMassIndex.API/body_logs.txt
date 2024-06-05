@@ -1,0 +1,2 @@
+kilo: 45, boy: 1,5,vücut kitle indeksi: 20
+kilo: 62, boy: 1,68,vücut kitle indeksi: 21,9671201814059

@@ -1,4 +1,5 @@
 ﻿using BodyMassIndex.Domain;
+using BodyMassIndex.Domain.TextService;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 namespace BodyMassIndex.API.Controllers
@@ -7,12 +8,14 @@ namespace BodyMassIndex.API.Controllers
     [ApiController]
     public class BodyController : ControllerBase
     {
+        private readonly Service _services = new();
+
         [HttpPost("[action]")]
 
-        public double Getbody(BodyMass BodyMass)
+        public double Getbody(BodyMass bodyMass)
         {
-            double body = BodyMass.weight / (BodyMass.lenght * BodyMass.lenght);
-            Console.WriteLine($"kilo: {BodyMass.weight}, boy: {BodyMass.lenght},vücut kitle indeksi: {body}");
+            double body = bodyMass.weight / (bodyMass.lenght * bodyMass.lenght);
+            _services.SaveText ($"kilo: {bodyMass.weight}, boy: {bodyMass.lenght},vücut kitle indeksi: {body}");
             return body;
 
         }

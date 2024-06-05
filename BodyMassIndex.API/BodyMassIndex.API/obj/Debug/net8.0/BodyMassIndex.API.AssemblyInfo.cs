@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BodyMassIndex.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833ac4187258d9cfbb659468c970aee1c5e288fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda0c2a4a3ee3f78ac4708747aaf41f01235e36a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BodyMassIndex.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BodyMassIndex.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
