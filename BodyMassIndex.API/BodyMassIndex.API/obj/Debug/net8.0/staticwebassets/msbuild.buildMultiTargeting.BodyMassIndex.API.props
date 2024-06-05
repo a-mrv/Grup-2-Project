@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BodyMassIndex.API.props" />
+</Project>

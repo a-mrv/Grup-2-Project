@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMassIndex.Domain.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMassIndex.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMassIndex.Domain.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMassIndex.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMassIndex.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\refint\BodyMassIndex.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMassIndex.Domain.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\ref\BodyMassIndex.Domain.dll

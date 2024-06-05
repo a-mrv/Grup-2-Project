@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyInterfaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+361b445c815bb467b56e256f62af89a6f900aeed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+833ac4187258d9cfbb659468c970aee1c5e288fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyInterfaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyInterfaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

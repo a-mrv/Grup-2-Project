@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMass.Domain.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMass.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMass.Domain.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMass.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\bin\Debug\net8.0\BodyMass.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\refint\BodyMass.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\BodyMass.Domain.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\BodyMassIndex.API\BodyMassIndex.Domain\obj\Debug\net8.0\ref\BodyMass.Domain.dll

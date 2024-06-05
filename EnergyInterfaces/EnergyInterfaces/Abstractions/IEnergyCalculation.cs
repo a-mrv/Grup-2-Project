@@ -9,6 +9,8 @@ namespace EnergyInterfaces.Abstractions
     public interface IEnergyCalculation
     {
         double EnergySpent();
+        double EnergyPrice();
+
          
     }
 }

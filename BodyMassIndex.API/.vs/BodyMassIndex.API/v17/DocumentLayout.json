@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3CC03C-7A4E-4A5B-BFCD-C9C1A3E830D9}|BodyMassIndex.API\\BodyMassIndex.API.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bodymassindex.api\\bodymassindex.api\\controllers\\bodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3CC03C-7A4E-4A5B-BFCD-C9C1A3E830D9}|BodyMassIndex.API\\BodyMassIndex.API.csproj|solutionrelative:bodymassindex.api\\controllers\\bodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMassIndex.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bodymassindex.api\\bodymassindex.domain\\bodymass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMassIndex.Domain.csproj|solutionrelative:bodymassindex.domain\\bodymass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMass.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bodymassindex.api\\bodymassindex.domain\\textservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMass.Domain.csproj|solutionrelative:bodymassindex.domain\\textservice\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMass.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bodymassindex.api\\bodymassindex.domain\\bodymass.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMass.Domain.csproj|solutionrelative:bodymassindex.domain\\bodymass.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMassIndex.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\bodymassindex.api\\bodymassindex.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A084EFC7-ABD7-470C-8334-16C779EE005C}|BodyMassIndex.Domain\\BodyMassIndex.Domain.csproj|solutionrelative:bodymassindex.domain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\TextService\\Service.cs",
+              "RelativeDocumentMoniker": "BodyMassIndex.Domain\\TextService\\Service.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\TextService\\Service.cs",
+              "RelativeToolTip": "BodyMassIndex.Domain\\TextService\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T09:40:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BodyMass.Domain",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\BodyMass.Domain.csproj",
+              "RelativeDocumentMoniker": "BodyMassIndex.Domain\\BodyMass.Domain.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\BodyMass.Domain.csproj",
+              "RelativeToolTip": "BodyMassIndex.Domain\\BodyMass.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-05T09:13:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BodyMass.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\BodyMass.cs",
+              "RelativeDocumentMoniker": "BodyMassIndex.Domain\\BodyMass.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\BodyMass.cs",
+              "RelativeToolTip": "BodyMassIndex.Domain\\BodyMass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:56:45.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\Program.cs",
+              "RelativeDocumentMoniker": "BodyMassIndex.Domain\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.Domain\\Program.cs",
+              "RelativeToolTip": "BodyMassIndex.Domain\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T07:56:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BodyController.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.API\\Controllers\\BodyController.cs",
+              "RelativeDocumentMoniker": "BodyMassIndex.API\\Controllers\\BodyController.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\BodyMassIndex.API\\BodyMassIndex.API\\Controllers\\BodyController.cs",
+              "RelativeToolTip": "BodyMassIndex.API\\Controllers\\BodyController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:35:03.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
