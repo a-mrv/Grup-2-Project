@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D09D852-F238-4808-B5DA-6B6E01BAC5F9}|SalesApp.WebAPI\\SalesApp.WebAPI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\salesapp\\salesapp.webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D09D852-F238-4808-B5DA-6B6E01BAC5F9}|SalesApp.WebAPI\\SalesApp.WebAPI.csproj|solutionrelative:salesapp.webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\salesapp\\salesapp.domain\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|solutionrelative:salesapp.domain\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\salesapp\\salesapp.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|solutionrelative:salesapp.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\salesapp\\salesapp.domain\\salesapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8B26FF8-BA1D-4247-A1D6-CACB60307FF5}|SalesApp.Domain\\SalesApp.Domain.csproj|solutionrelative:salesapp.domain\\salesapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.WebAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "SalesApp.WebAPI\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.WebAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "SalesApp.WebAPI\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvy0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:11:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "SalesApp.Domain\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\Services\\CarService.cs",
+              "RelativeToolTip": "SalesApp.Domain\\Services\\CarService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:37:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "SalesApp.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "SalesApp.Domain\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:32:20.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalesApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\SalesApp.Domain.csproj",
+              "RelativeDocumentMoniker": "SalesApp.Domain\\SalesApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SalesApp\\SalesApp.Domain\\SalesApp.Domain.csproj",
+              "RelativeToolTip": "SalesApp.Domain\\SalesApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T06:31:45.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

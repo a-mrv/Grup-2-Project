@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3saXL17ULrciOS8jVEtsNEWtbLJwglBs4qQlBjOJdfI=",
+  "Source": "SalesApp.WebAPI",
+  "BasePath": "_content/SalesApp.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

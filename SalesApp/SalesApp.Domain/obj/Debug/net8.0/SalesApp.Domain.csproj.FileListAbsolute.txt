@@ -1,0 +1,12 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\bin\Debug\net8.0\SalesApp.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\bin\Debug\net8.0\SalesApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\bin\Debug\net8.0\SalesApp.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\refint\SalesApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\SalesApp.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SalesApp\SalesApp.Domain\obj\Debug\net8.0\ref\SalesApp.Domain.dll
