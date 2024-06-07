@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\bin\Debug\net8.0\SwitchExamples.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\bin\Debug\net8.0\SwitchExamples.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\bin\Debug\net8.0\SwitchExamples.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\bin\Debug\net8.0\SwitchExamples.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\bin\Debug\net8.0\SwitchExamples.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\refint\SwitchExamples.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\SwitchExamples.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\SwitchExamples\SwitchExamples\obj\Debug\net8.0\ref\SwitchExamples.dll
