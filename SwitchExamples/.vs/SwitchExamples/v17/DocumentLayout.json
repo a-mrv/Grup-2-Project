@@ -38,8 +38,7 @@
               "RelativeToolTip": "SwitchExamples\\Enums\\ProductState.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:07:51.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:07:51.788Z"
             },
             {
               "$type": "Document",
@@ -51,21 +50,19 @@
               "RelativeToolTip": "SwitchExamples\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:04:29.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:04:29.093Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SwitchExamples",
+              "Title": "SwitchExamples.csproj",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SwitchExamples\\SwitchExamples\\SwitchExamples.csproj",
               "RelativeDocumentMoniker": "SwitchExamples\\SwitchExamples.csproj",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SwitchExamples\\SwitchExamples\\SwitchExamples.csproj",
               "RelativeToolTip": "SwitchExamples\\SwitchExamples.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-07T07:03:14.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T07:03:14.594Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "SwitchExamples\\Program.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\SwitchExamples\\SwitchExamples\\Program.cs",
               "RelativeToolTip": "SwitchExamples\\Program.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADcAAAAhAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T06:47:13.38Z",
               "EditorCaption": ""
