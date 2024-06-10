@@ -16,16 +16,29 @@ while (true)
         case "1":
             Console.Write("Kaydedilecek not: ");
             string not = Console.ReadLine();
-            Console.WriteLine(not);
+            File.AppendAllText("C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NotExampleApp\\NotExampleApp\\text.txt", not);
+            //Console.WriteLine(not);
             break;
+
         case "2":
 
-            Console.WriteLine(nots);
+            Console.WriteLine("Kaydedilen not:");
+            //foreach (var note in nots)
+            //{
+            //    Console.WriteLine(note);
+            //}
+            var savedtext = File.ReadAllText("C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NotExampleApp\\NotExampleApp\\text.txt");
+            Console.WriteLine(savedtext);
+
             break;
         case "3":
             return;
+
         default:
+
             Console.WriteLine("Geçersiz seçim!");
-            break;
     }
+    break;
 }
+
+

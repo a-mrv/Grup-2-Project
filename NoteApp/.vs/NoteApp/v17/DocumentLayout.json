@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\noteapp\\noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\noteapp\\noteapp\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\noteapp\\noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|solutionrelative:noteapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5D80749B-2DE4-4CDE-A1A9-1DB155ECCDDC}|NoteApp\\NoteApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\noteapp\\noteapp\\abstractions\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NoteService.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\Services\\NoteService.cs",
               "RelativeDocumentMoniker": "NoteApp\\Services\\NoteService.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\Services\\NoteService.cs",
               "RelativeToolTip": "NoteApp\\Services\\NoteService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T11:34:13.162Z",
               "EditorCaption": ""
@@ -47,18 +47,17 @@
               "RelativeToolTip": "NoteApp\\Abstractions\\INoteService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T11:31:39.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T11:31:39.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\Program.cs",
               "RelativeDocumentMoniker": "NoteApp\\Program.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\Program.cs",
               "RelativeToolTip": "NoteApp\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwCEAAAABAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T11:29:48.014Z",
               "EditorCaption": ""

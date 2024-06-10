@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\bin\Debug\net8.0\Sevices.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\bin\Debug\net8.0\Sevices.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\bin\Debug\net8.0\Sevices.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\bin\Debug\net8.0\Sevices.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\bin\Debug\net8.0\Sevices.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\refint\Sevices.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\Sevices.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\Sevices\obj\Debug\net8.0\ref\Sevices.dll
