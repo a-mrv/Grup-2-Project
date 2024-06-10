@@ -9,9 +9,16 @@ namespace NoteApp.Services
 {
     public class NoteService : INoteService
     {
-        void INoteService.SaveNote(string text)
+
+        public void SaveNote(string text)
         {
-            throw new NotImplementedException();
+            File.AppendAllText("C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\text.txt", text);
+            Console.WriteLine("Not kaydedildi.");
+        }
+        public string GetNote()
+        {
+            Console.WriteLine("Kaydedilmiş Not:");
+            return File.ReadAllText("C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NoteApp\\NoteApp\\text.txt");
         }
     }
 }

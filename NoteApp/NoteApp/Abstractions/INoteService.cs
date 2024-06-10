@@ -9,6 +9,6 @@ namespace NoteApp.Abstractions
     public interface INoteService
     {
         void SaveNote(string text);
-        string GetNote(string text);
+        string GetNote();
     }
 }
