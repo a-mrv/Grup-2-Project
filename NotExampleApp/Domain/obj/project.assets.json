@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "NoteExampleAppInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/NoteExampleAppInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NoteExampleAppInterface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NoteExampleAppInterface/1.0.0": {
+      "type": "project",
+      "path": "../NoteExampleAppInterface/NoteExampleAppInterface.csproj",
+      "msbuildProject": "../NoteExampleAppInterface/NoteExampleAppInterface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "NoteExampleAppInterface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MERVE\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NotExampleApp\\NoteExampleAppInterface\\NoteExampleAppInterface.csproj": {
+              "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\NotExampleApp\\NoteExampleAppInterface\\NoteExampleAppInterface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

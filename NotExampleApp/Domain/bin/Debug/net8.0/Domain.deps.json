@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Domain/1.0.0": {
+        "dependencies": {
+          "NoteExampleAppInterface": "1.0.0"
+        },
         "runtime": {
           "Domain.dll": {}
+        }
+      },
+      "NoteExampleAppInterface/1.0.0": {
+        "runtime": {
+          "NoteExampleAppInterface.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NoteExampleAppInterface/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

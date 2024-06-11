@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\bin\Debug\net8.0\NoteExampleAppInterface.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\bin\Debug\net8.0\NoteExampleAppInterface.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\bin\Debug\net8.0\NoteExampleAppInterface.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\bin\Debug\net8.0\NoteExampleAppInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\bin\Debug\net8.0\NoteExampleAppInterface.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\refint\NoteExampleAppInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\NoteExampleAppInterface.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NoteExampleAppInterface\obj\Debug\net8.0\ref\NoteExampleAppInterface.dll

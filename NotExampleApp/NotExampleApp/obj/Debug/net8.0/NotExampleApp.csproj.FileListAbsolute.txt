@@ -20,3 +20,8 @@ C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\D
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\Domain.pdb
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\obj\Debug\net8.0\NotExampleApp.csproj.AssemblyReference.cache
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\obj\Debug\net8.0\NotExamp.D3E08513.Up2Date
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\NoteExampleAppInterface.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\NoteExampleAppInterface.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\NoteExampleAppInterface.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\NoteExampleAppInterface.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\NotExampleApp\NotExampleApp\bin\Debug\net8.0\NoteExampleAppInterface.pdb
