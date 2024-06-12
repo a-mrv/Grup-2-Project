@@ -1,0 +1,12 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\bin\Debug\net8.0\Productify.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\bin\Debug\net8.0\Productify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\bin\Debug\net8.0\Productify.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\refint\Productify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\Productify.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Productify\Productify.Domain\obj\Debug\net8.0\ref\Productify.Domain.dll
