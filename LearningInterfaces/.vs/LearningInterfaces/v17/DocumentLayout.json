@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "LearningInterfaces\\Concrete\\Circle.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Circle.cs",
               "RelativeToolTip": "LearningInterfaces\\Concrete\\Circle.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAA5AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T06:45:33.858Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "LearningInterfaces\\Concrete\\Rectangle.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Concrete\\Rectangle.cs",
               "RelativeToolTip": "LearningInterfaces\\Concrete\\Rectangle.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T06:25:26.38Z",
               "EditorCaption": ""
@@ -74,15 +74,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LearningInterfaces",
+              "Title": "LearningInterfaces.csproj",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\LearningInterfaces.csproj",
               "RelativeDocumentMoniker": "LearningInterfaces\\LearningInterfaces.csproj",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\LearningInterfaces.csproj",
               "RelativeToolTip": "LearningInterfaces\\LearningInterfaces.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-03T06:05:04.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T06:05:04.732Z"
             },
             {
               "$type": "Document",
@@ -92,7 +91,7 @@
               "RelativeDocumentMoniker": "LearningInterfaces\\Program.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\LearningInterfaces\\LearningInterfaces\\Program.cs",
               "RelativeToolTip": "LearningInterfaces\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T06:03:38.166Z",
               "EditorCaption": ""
