@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\bin\Debug\net8.0\MextFSBeginnerAbstractClassExample.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\bin\Debug\net8.0\MextFSBeginnerAbstractClassExample.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\bin\Debug\net8.0\MextFSBeginnerAbstractClassExample.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\bin\Debug\net8.0\MextFSBeginnerAbstractClassExample.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\bin\Debug\net8.0\MextFSBeginnerAbstractClassExample.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\refint\MextFSBeginnerAbstractClassExample.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\MextFSBeginnerAbstractClassExample.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\MextFSBeginnerAbstractClassExample\MextFSBeginnerAbstractClassExample\obj\Debug\net8.0\ref\MextFSBeginnerAbstractClassExample.dll

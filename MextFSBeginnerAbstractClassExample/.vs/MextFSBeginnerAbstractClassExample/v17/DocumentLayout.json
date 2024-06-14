@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\animals\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\animals\\rabbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\animals\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\animals\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\enums\\animalgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\enums\\animalgender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\animals\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\mextfsbeginnerabstractclassexample\\mextfsbeginnerabstractclassexample\\baseclasses\\animalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03BD66B-B343-4405-A52D-44290A1C6517}|MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample.csproj|solutionrelative:mextfsbeginnerabstractclassexample\\baseclasses\\animalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rabbit.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Rabbit.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Animals\\Rabbit.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Rabbit.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Animals\\Rabbit.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:18:30.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Bird.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Animals\\Bird.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Bird.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Animals\\Bird.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:38:47.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Cat.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Animals\\Cat.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:34:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Animals\\Dog.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Animals\\Dog.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:34:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimalGender.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Enums\\AnimalGender.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Enums\\AnimalGender.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Enums\\AnimalGender.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Enums\\AnimalGender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:29:22.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalBase.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\BaseClasses\\AnimalBase.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\BaseClasses\\AnimalBase.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\BaseClasses\\AnimalBase.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\BaseClasses\\AnimalBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:26:01.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "MextFSBeginnerAbstractClassExample\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\MextFSBeginnerAbstractClassExample\\MextFSBeginnerAbstractClassExample\\Program.cs",
+              "RelativeToolTip": "MextFSBeginnerAbstractClassExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:24:57.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

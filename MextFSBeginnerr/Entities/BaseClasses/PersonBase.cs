@@ -1,5 +1,7 @@
 ﻿
 
+using Entities;
+
 namespace MextFSBeginner.Entities.BaseClasses
 {
     public class PersonBase
@@ -15,7 +17,18 @@ namespace MextFSBeginner.Entities.BaseClasses
                 return $"{FirstName}{LastName}";
             }
         }
+
+        public static implicit operator Teacher(Parent parent)
+        {
+            return new Teacher()
+            {
+                FirstName = parent.FirstName,
+                LastName = parent.LastName,
+                IdentityNumber = parent.IdentityNumber
+            };
+        }
         public string FullInfo => $"{FullName} - {IdentityNumber}";
+      
 
     }
 }
