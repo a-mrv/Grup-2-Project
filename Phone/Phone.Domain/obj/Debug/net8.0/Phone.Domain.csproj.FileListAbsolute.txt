@@ -1,0 +1,12 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\bin\Debug\net8.0\Phone.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\bin\Debug\net8.0\Phone.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\bin\Debug\net8.0\Phone.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\refint\Phone.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\Phone.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Phone\Phone.Domain\obj\Debug\net8.0\ref\Phone.Domain.dll

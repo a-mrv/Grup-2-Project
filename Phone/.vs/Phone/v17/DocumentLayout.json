@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\services\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\services\\phoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAF1967-882A-4708-97D0-1A32240D4D18}|PhoneApp\\PhoneApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAF1967-882A-4708-97D0-1A32240D4D18}|PhoneApp\\PhoneApp.csproj|solutionrelative:phoneapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\entities\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\entities\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\abstractions\\iphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\abstractions\\iphoneservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\entities\\\u00F6zellikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\entities\\\u00F6zellikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\entities\\kamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\entities\\kamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\entities\\ekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\entities\\ekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\phone\\phone.domain\\entities\\batarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2F2FDC-2B15-4EE3-8035-55E193157468}|Phone.Domain\\Phone.Domain.csproj|solutionrelative:phone.domain\\entities\\batarya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\PhoneApp\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\PhoneApp\\Program.cs",
+              "RelativeToolTip": "PhoneApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAACeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:02:14.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPhoneService.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Abstractions\\IPhoneService.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Abstractions\\IPhoneService.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Abstractions\\IPhoneService.cs",
+              "RelativeToolTip": "Phone.Domain\\Abstractions\\IPhoneService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:37:04.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneService.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Services\\PhoneService.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Services\\PhoneService.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Services\\PhoneService.cs",
+              "RelativeToolTip": "Phone.Domain\\Services\\PhoneService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:30:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Telefon.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Telefon.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Entities\\Telefon.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Telefon.cs",
+              "RelativeToolTip": "Phone.Domain\\Entities\\Telefon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:28:14.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Batarya.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Batarya.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Entities\\Batarya.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Batarya.cs",
+              "RelativeToolTip": "Phone.Domain\\Entities\\Batarya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:57:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kamera.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Kamera.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Entities\\Kamera.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Kamera.cs",
+              "RelativeToolTip": "Phone.Domain\\Entities\\Kamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:56:35.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ekran.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Ekran.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Entities\\Ekran.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\Ekran.cs",
+              "RelativeToolTip": "Phone.Domain\\Entities\\Ekran.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:55:57.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u00D6zellikler.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\\u00D6zellikler.cs",
+              "RelativeDocumentMoniker": "Phone.Domain\\Entities\\\u00D6zellikler.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Phone\\Phone.Domain\\Entities\\\u00D6zellikler.cs",
+              "RelativeToolTip": "Phone.Domain\\Entities\\\u00D6zellikler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:52:30.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

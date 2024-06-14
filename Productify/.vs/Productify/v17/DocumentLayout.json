@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F446D653-39A9-42D7-ADE7-3E12A1ADB5E1}|Productify.Console\\Productify.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\productify\\productify.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446D653-39A9-42D7-ADE7-3E12A1ADB5E1}|Productify.Console\\Productify.Console.csproj|solutionrelative:productify.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87695251-5E6F-45E5-B04C-81F00768D6D3}|Productify.Domain\\Productify.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\productify\\productify.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87695251-5E6F-45E5-B04C-81F00768D6D3}|Productify.Domain\\Productify.Domain.csproj|solutionrelative:productify.domain\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87695251-5E6F-45E5-B04C-81F00768D6D3}|Productify.Domain\\Productify.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\productify\\productify.domain\\abstractions\\iproductifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87695251-5E6F-45E5-B04C-81F00768D6D3}|Productify.Domain\\Productify.Domain.csproj|solutionrelative:productify.domain\\abstractions\\iproductifyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446D653-39A9-42D7-ADE7-3E12A1ADB5E1}|Productify.Console\\Productify.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\productify\\productify.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446D653-39A9-42D7-ADE7-3E12A1ADB5E1}|Productify.Console\\Productify.Console.csproj|solutionrelative:productify.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Console\\Program.cs",
               "RelativeDocumentMoniker": "Productify.Console\\Program.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Console\\Program.cs",
               "RelativeToolTip": "Productify.Console\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:22:14.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T07:22:14.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Domain\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Productify.Domain\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Domain\\Services\\ProductService.cs",
               "RelativeToolTip": "Productify.Domain\\Services\\ProductService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCYAAAARAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T10:15:33.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IProductifyService.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Domain\\Abstractions\\IProductifyService.cs",
               "RelativeDocumentMoniker": "Productify.Domain\\Abstractions\\IProductifyService.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Productify\\Productify.Domain\\Abstractions\\IProductifyService.cs",
               "RelativeToolTip": "Productify.Domain\\Abstractions\\IProductifyService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAARAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T10:06:03.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-11T10:06:03.634Z"
             }
           ]
         }

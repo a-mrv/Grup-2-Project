@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TurApp/1.0.0": {
+        "dependencies": {
+          "ExampleProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TurApp.dll": {}
+        }
+      },
+      "ExampleProject.Domain/1.0.0": {
+        "runtime": {
+          "ExampleProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TurApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExampleProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

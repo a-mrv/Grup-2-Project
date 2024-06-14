@@ -12,7 +12,7 @@ namespace Phone.Domain.Entities
         public string Model { get; set; }
         public string Açıklama { get; set; }
         //public string Renk { get; set; }
-        public string HatSayısı {  get; set; }
+        public string Kutuİçeriği {  get; set; }
 
     }
 }

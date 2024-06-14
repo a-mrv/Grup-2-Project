@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleProject.Domain", "ExampleProject.Domain\ExampleProject.Domain.csproj", "{308D17B2-473D-4160-9D14-659F2B04F067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurApp", "TurApp\TurApp.csproj", "{E8BD2DCD-695C-4864-B506-DABB09A9F802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308D17B2-473D-4160-9D14-659F2B04F067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308D17B2-473D-4160-9D14-659F2B04F067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308D17B2-473D-4160-9D14-659F2B04F067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308D17B2-473D-4160-9D14-659F2B04F067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8BD2DCD-695C-4864-B506-DABB09A9F802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8BD2DCD-695C-4864-B506-DABB09A9F802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8BD2DCD-695C-4864-B506-DABB09A9F802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8BD2DCD-695C-4864-B506-DABB09A9F802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {363B818A-25C1-45AD-98C6-58DDE1C93BAD}
+	EndGlobalSection
+EndGlobal

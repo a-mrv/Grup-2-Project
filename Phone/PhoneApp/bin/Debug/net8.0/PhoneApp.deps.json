@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PhoneApp/1.0.0": {
+        "dependencies": {
+          "Phone.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PhoneApp.dll": {}
+        }
+      },
+      "Phone.Domain/1.0.0": {
+        "runtime": {
+          "Phone.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Phone.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

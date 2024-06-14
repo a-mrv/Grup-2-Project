@@ -9,8 +9,8 @@ namespace Phone.Domain.Entities
     public class Ekran
     {
 
-        public int Boyutu { get; set; }
-        public int Çözünürlügü { get; set; }
+        public double Boyutu { get; set; }
+        public int PikselYoğunluğu { get; set; }
         public int YenilemeHızı {  get; set; }
 
     }

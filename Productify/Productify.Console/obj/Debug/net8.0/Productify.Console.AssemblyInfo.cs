@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Productify.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0db08541286af88ee3ef9832439ca88be52cbbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f5f906c6ff5eeaf6d7876536477522691d90ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Productify.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Productify.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
