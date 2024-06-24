@@ -9,6 +9,6 @@ namespace MextFSBeginnerAbstractClassExample.Enums
     public enum  AnimalGender
     {
         Male=1,
-            Female=2,
+        Female=2,
     }
 }
