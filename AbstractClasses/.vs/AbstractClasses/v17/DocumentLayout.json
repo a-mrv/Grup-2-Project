@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B8CDB5-7197-4978-8A24-A4D83BE15FD8}|Maa\u015FHesapla\\Maa\u015FHesapla.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\abstractclasses\\maa\u015Fhesapla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B8CDB5-7197-4978-8A24-A4D83BE15FD8}|Maa\u015FHesapla\\Maa\u015FHesapla.csproj|solutionrelative:maa\u015Fhesapla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E907A6F-FA79-4D6A-8439-934815D4C687}|AbstractClasses\\AbstractClasses.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\abstractclasses\\abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E907A6F-FA79-4D6A-8439-934815D4C687}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E907A6F-FA79-4D6A-8439-934815D4C687}|AbstractClasses\\AbstractClasses.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\abstractclasses\\abstractclasses\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E907A6F-FA79-4D6A-8439-934815D4C687}|AbstractClasses\\AbstractClasses.csproj|solutionrelative:abstractclasses\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\Maa\u015FHesapla\\Program.cs",
+              "RelativeDocumentMoniker": "Maa\u015FHesapla\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\Maa\u015FHesapla\\Program.cs",
+              "RelativeToolTip": "Maa\u015FHesapla\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:34:50.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Example.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\AbstractClasses\\Example.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Example.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\AbstractClasses\\Example.cs",
+              "RelativeToolTip": "AbstractClasses\\Example.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:29:25.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\AbstractClasses\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\AbstractClasses\\AbstractClasses\\Program.cs",
+              "RelativeToolTip": "AbstractClasses\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:03:02.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
