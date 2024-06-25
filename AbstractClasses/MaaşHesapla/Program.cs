@@ -1,10 +1,16 @@
-﻿// Abstract Class (Soyut Sınıf)
+﻿
 
 Personel müdür = new Müdür();
-müdür.MaasHesapla();  // Çıktı: "Müdür maaşı hesaplandı."
+müdür.Ad = "Ayşe";
+müdür.Soyad = "Kaya";
+müdür.Gün = 20;
+müdür.MaasHesapla();  
 
 Personel işçi = new İşçi();
-işçi.MaasHesapla();   // Çıktı: "İşçi maaşı hesaplandı."
+işçi.Ad = "Elif";
+işçi.Soyad = "Ay";
+işçi.Gün = 24;
+işçi.MaasHesapla();   
 
 
 abstract class Personel
@@ -14,30 +20,31 @@ abstract class Personel
     public int Gün { get; set; }
     public decimal Ücret { get; set; }
 
-    public abstract void MaasHesapla()
-    {
-        return Gün * Ücret;
-    }
+    public abstract void MaasHesapla();
+    
+        
 }
 
-// Concrete Class (Somut Sınıf) - Müdür
 class Müdür : Personel
 {
     public override void MaasHesapla()
     {
         Console.WriteLine("Müdür maaşı hesaplandı.");
-       
-        // Maaş hesaplama işlemleri burada yapılabilir
+        decimal maaş = Gün * 1000;
+        Console.WriteLine($"Müdür:{Ad} {Soyad} - Maaşı: {maaş} TL");
+
     }
 }
 
-// Concrete Class (Somut Sınıf) - İşçi
+
 class İşçi : Personel
 {
     public override void MaasHesapla()
     {
         Console.WriteLine("İşçi maaşı hesaplandı.");
-        // Maaş hesaplama işlemleri burada yapılabilir
+        decimal maaş = Gün * 500;
+        Console.WriteLine($"İşçi: {Ad} {Soyad} - Maaşı: {maaş} TL");
+
     }
 }
 

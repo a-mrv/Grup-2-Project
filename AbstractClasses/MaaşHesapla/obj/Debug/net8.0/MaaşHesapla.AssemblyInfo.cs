@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaaşHesapla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f98e4bcb3e2ff523cc3c10b7e7d1ea110cf8161")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+870ceed194d537718c0ea61594c100566a98d8b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaaşHesapla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaaşHesapla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\bin\Debug\net8.0\MaaşHesapla.exe
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\bin\Debug\net8.0\MaaşHesapla.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\bin\Debug\net8.0\MaaşHesapla.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\bin\Debug\net8.0\MaaşHesapla.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\bin\Debug\net8.0\MaaşHesapla.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\refint\MaaşHesapla.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\MaaşHesapla.genruntimeconfig.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\AbstractClasses\MaaşHesapla\obj\Debug\net8.0\ref\MaaşHesapla.dll
