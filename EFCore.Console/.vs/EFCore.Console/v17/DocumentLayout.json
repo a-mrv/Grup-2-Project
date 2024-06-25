@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\efcore.console\\efcore.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|solutionrelative:efcore.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\efcore.console\\efcore.console\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|solutionrelative:efcore.console\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\efcore.console\\efcore.console\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|solutionrelative:efcore.console\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\efcore.console\\efcore.console\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F67713-E270-4710-805E-3AA9494640A1}|EFCore.Console\\EFCore.Console.csproj|solutionrelative:efcore.console\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCore.Console\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "EFCore.Console\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T08:19:47.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Entities\\Lecture.cs",
+              "RelativeDocumentMoniker": "EFCore.Console\\Entities\\Lecture.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Entities\\Lecture.cs",
+              "RelativeToolTip": "EFCore.Console\\Entities\\Lecture.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:57:04.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EFCore.Console\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Entities\\Student.cs",
+              "RelativeToolTip": "EFCore.Console\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:54:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Program.cs",
+              "RelativeDocumentMoniker": "EFCore.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\EFCore.Console\\EFCore.Console\\Program.cs",
+              "RelativeToolTip": "EFCore.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:51:51.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
