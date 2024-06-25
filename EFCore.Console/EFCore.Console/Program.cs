@@ -2,6 +2,7 @@
 using EFCore.Console.Contexts;
 using EFCore.Console.Entities;
 using EFCore.Console;
+using Microsoft.EntityFrameworkCore;
 
 AppDbContext appDbContext = new();
 
@@ -12,12 +13,21 @@ var student1 = new Student()
     LastName = "Doe",
 
 };
+var student2 = new Student()
+{
+    Id = Guid.NewGuid(),
+    FirstName = "John",
+    LastName = "Doe",
 
-appDbContext.Students.Add(student1);
+};
 
-appDbContext.SaveChanges();
+dbContext.Students.Add(student1);
+dbContext.Students.Add(student2);
 
-var students = appDbContext.Students.ToList();
+
+dbContext.SaveChanges();
+
+var students = dbContext.Students.ToList();
 
 foreach (var student in students)
 
