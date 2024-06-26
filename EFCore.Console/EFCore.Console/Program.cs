@@ -10,7 +10,7 @@ var student1 = new Student()
 {
     Id = Guid.NewGuid(),
     FirstName = "John",
-    LastName = "Doe",
+    LastName = "Doel",
 
 };
 var student2 = new Student()
