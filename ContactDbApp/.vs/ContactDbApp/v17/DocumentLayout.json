@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contactdbapp.domain\\contexts\\contactdbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|solutionrelative:contactdbapp.domain\\contexts\\contactdbappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95646AE4-2AE7-46D0-B3F4-D7CEB2B3CB9B}|ContectDbApp.Console\\ContectDbApp.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contectdbapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95646AE4-2AE7-46D0-B3F4-D7CEB2B3CB9B}|ContectDbApp.Console\\ContectDbApp.Console.csproj|solutionrelative:contectdbapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95646AE4-2AE7-46D0-B3F4-D7CEB2B3CB9B}|ContectDbApp.Console\\ContectDbApp.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contectdbapp.console\\contectdbapp.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{95646AE4-2AE7-46D0-B3F4-D7CEB2B3CB9B}|ContectDbApp.Console\\ContectDbApp.Console.csproj|solutionrelative:contectdbapp.console\\contectdbapp.console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contactdbapp.domain\\enums\\gradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|solutionrelative:contactdbapp.domain\\enums\\gradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contactdbapp.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|solutionrelative:contactdbapp.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contactdbapp.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|solutionrelative:contactdbapp.domain\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\contactdbapp\\contactdbapp.domain\\contactdbapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3CE28BB-E3E7-43F0-B7D2-6B2D1FB567DB}|ContactDbApp.Domain\\ContactDbApp.Domain.csproj|solutionrelative:contactdbapp.domain\\contactdbapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContectDbApp.Console",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContectDbApp.Console\\ContectDbApp.Console.csproj",
+              "RelativeDocumentMoniker": "ContectDbApp.Console\\ContectDbApp.Console.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContectDbApp.Console\\ContectDbApp.Console.csproj",
+              "RelativeToolTip": "ContectDbApp.Console\\ContectDbApp.Console.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T08:42:19.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContectDbApp.Console\\Program.cs",
+              "RelativeDocumentMoniker": "ContectDbApp.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContectDbApp.Console\\Program.cs",
+              "RelativeToolTip": "ContectDbApp.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:42:19.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactDbAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Contexts\\ContactDbAppContext.cs",
+              "RelativeDocumentMoniker": "ContactDbApp.Domain\\Contexts\\ContactDbAppContext.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Contexts\\ContactDbAppContext.cs",
+              "RelativeToolTip": "ContactDbApp.Domain\\Contexts\\ContactDbAppContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:42:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Enums\\GradeLevel.cs",
+              "RelativeDocumentMoniker": "ContactDbApp.Domain\\Enums\\GradeLevel.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Enums\\GradeLevel.cs",
+              "RelativeToolTip": "ContactDbApp.Domain\\Enums\\GradeLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:42:19.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ContactDbApp.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "ContactDbApp.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:42:19.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "ContactDbApp.Domain\\Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\Entities\\Teacher.cs",
+              "RelativeToolTip": "ContactDbApp.Domain\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:42:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactDbApp.Domain",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\ContactDbApp.Domain.csproj",
+              "RelativeDocumentMoniker": "ContactDbApp.Domain\\ContactDbApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\ContactDbApp\\ContactDbApp.Domain\\ContactDbApp.Domain.csproj",
+              "RelativeToolTip": "ContactDbApp.Domain\\ContactDbApp.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T08:42:12.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
