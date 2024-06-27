@@ -50,15 +50,42 @@ while (seçim != "3")
             string name = Console.ReadLine();
             Console.WriteLine("Öğrenci sınıfını giriniz.");
             string grade = Console.ReadLine();
-            Console.WriteLine($"Öğrenci ismi:{name} - sınıfı: {grade}");
+
+            GradeLevel gradeLevel = GradeLevel.Junior;
+
+            if(grade== "Junior")
+            {
+                gradeLevel = GradeLevel.Junior;
+            }
+           
+
+            if (grade == "Senior")
+            {
+                gradeLevel = GradeLevel.Senior;
+            }
+            
+            if (grade == "Freshman")
+            {
+                gradeLevel = GradeLevel.Freshman;
+            }
+            if (grade == "Sophomore")
+            {
+                gradeLevel = GradeLevel.Sophomore;
+            }
+            if (grade == "Graduate")
+            {
+                gradeLevel = GradeLevel.Graduate;
+            }
+
             Student student = new()
             {
                 Id = Guid.NewGuid(),
                 Name = name,
-                Grade = GradeLevel.Senior,
+                Grade = gradeLevel,
             };
             context.Students.Add(student);
             context.SaveChanges();
+            Console.WriteLine($"Öğrenci ismi:{name} - sınıfı: {grade}");
             break;
 
         case "2":
