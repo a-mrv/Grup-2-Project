@@ -1,0 +1,15 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\bin\Debug\net8.0\ContactDbApp.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\bin\Debug\net8.0\ContactDbApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\bin\Debug\net8.0\ContactDbApp.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.csproj.AssemblyReference.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\refint\ContactDbApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ref\ContactDbApp.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\bin\Debug\net8.0\ContactDbApp.Domain.runtimeconfig.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\ContactDbApp\ContactDbApp.Domain\obj\Debug\net8.0\ContactDbApp.Domain.genruntimeconfig.cache

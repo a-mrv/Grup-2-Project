@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContectDbApp.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51c1d8c6f4d6c63e93d25f943a6b3fbd7da46730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3272884df71655c2ba55d02513f66c5ba9daec77")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContectDbApp.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContectDbApp.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
