@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E354B495-A979-4B34-9381-8389E4BD9E4B}|StudentsApp.Console\\StudentsApp.Console.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E354B495-A979-4B34-9381-8389E4BD9E4B}|StudentsApp.Console\\StudentsApp.Console.csproj|solutionrelative:studentsapp.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.domain\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|solutionrelative:studentsapp.domain\\entities\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|solutionrelative:studentsapp.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D603DAF-AD37-4C9B-A1FC-673773A0AAB9}|StudentsApp.Infrastructure\\StudentsApp.Infrastructure.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.infrastructure\\persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D603DAF-AD37-4C9B-A1FC-673773A0AAB9}|StudentsApp.Infrastructure\\StudentsApp.Infrastructure.csproj|solutionrelative:studentsapp.infrastructure\\persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.domain\\enums\\gradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|solutionrelative:studentsapp.domain\\enums\\gradelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.domain\\enums\\lecturetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|solutionrelative:studentsapp.domain\\enums\\lecturetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\studentsapp\\studentsapp.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9578E921-3C40-4CEE-AD4F-B02F227047B1}|StudentsApp.Domain\\StudentsApp.Domain.csproj|solutionrelative:studentsapp.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Console\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Console\\Program.cs",
+              "RelativeToolTip": "StudentsApp.Console\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:08:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "StudentsApp.Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:43:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LectureType.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Enums\\LectureType.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Domain\\Enums\\LectureType.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Enums\\LectureType.cs",
+              "RelativeToolTip": "StudentsApp.Domain\\Enums\\LectureType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:27:16.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradeLevel.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Enums\\GradeLevel.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Domain\\Enums\\GradeLevel.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Enums\\GradeLevel.cs",
+              "RelativeToolTip": "StudentsApp.Domain\\Enums\\GradeLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:26:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Entities\\Lecture.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Domain\\Entities\\Lecture.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Entities\\Lecture.cs",
+              "RelativeToolTip": "StudentsApp.Domain\\Entities\\Lecture.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:23:56.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentsApp.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:23:34.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "StudentsApp.Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "StudentsApp.Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:34:35.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
