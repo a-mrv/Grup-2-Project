@@ -10,12 +10,12 @@ namespace StudentsApp.Infrastructure.Persistence.Contexts
 {
     public class AppDbContext:DbContext       //kalıtım(kütüphane)
     {
-        DbSet<Student> Students {  get; set; }
-        DbSet<Lecture> Lectures {  get; set; }
+       public DbSet<Student> Students {  get; set; }
+       public DbSet<Lecture> Lectures {  get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Server = localhost; Port = 5432; Database = myDataBase; User Id = myUsername; Password = mysecretpassword;");
+            optionsBuilder.UseNpgsql("Server = localhost; Port = 5432; Database = StudentsAppDb; User Id = postgres; Password = mysecretpassword;");
         }
         // veri tabanı tabloları
 
