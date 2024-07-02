@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "StudentsApp.Console\\Program.cs",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\StudentsApp\\StudentsApp.Console\\Program.cs",
               "RelativeToolTip": "StudentsApp.Console\\Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACgAAAAEAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-28T08:08:17.62Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "StudentsApp.Infrastructure\\Persistence\\Contexts\\AppDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:43:06.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:43:06.035Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "StudentsApp.Domain\\Enums\\LectureType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:27:16.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:27:16.923Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "StudentsApp.Domain\\Enums\\GradeLevel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:26:42.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:26:42.379Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "StudentsApp.Domain\\Entities\\Lecture.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:23:56.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:23:56.793Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "StudentsApp.Domain\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:23:34.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:23:34.956Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "StudentsApp.Domain\\Common\\EntityBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:34:35.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:34:35.72Z"
             }
           ]
         }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ikBOW8XJZxMrRjX2RLWjQ4yM03B9jQA+rfDx3o8pFZE=",
+  "Source": "Eventify.WebAPI",
+  "BasePath": "_content/Eventify.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

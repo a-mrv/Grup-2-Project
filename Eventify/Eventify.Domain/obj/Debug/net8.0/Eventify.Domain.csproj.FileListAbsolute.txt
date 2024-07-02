@@ -1,0 +1,12 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\bin\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\refint\Eventify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Domain\obj\Debug\net8.0\ref\Eventify.Domain.dll
