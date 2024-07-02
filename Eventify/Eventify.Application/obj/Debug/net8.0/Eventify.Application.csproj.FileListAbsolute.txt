@@ -1,0 +1,16 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\bin\Debug\net8.0\Eventify.Application.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\bin\Debug\net8.0\Eventify.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\bin\Debug\net8.0\Eventify.Application.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\bin\Debug\net8.0\Eventify.Domain.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\bin\Debug\net8.0\Eventify.Domain.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.csproj.AssemblyReference.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.F6A242CA.Up2Date
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\refint\Eventify.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\Eventify.Application.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\Eventify\Eventify.Application\obj\Debug\net8.0\ref\Eventify.Application.dll
