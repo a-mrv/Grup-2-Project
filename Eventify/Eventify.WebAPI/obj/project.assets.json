@@ -1180,6 +1180,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Eventify.Application >= 1.0.0",
       "Eventify.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -1211,6 +1212,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Eventify.Application.csproj": {
+              "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Eventify.Application.csproj"
+            },
             "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Eventify.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Eventify.Infrastructure.csproj"
             }

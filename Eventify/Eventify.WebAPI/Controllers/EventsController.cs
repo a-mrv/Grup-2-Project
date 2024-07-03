@@ -41,9 +41,9 @@ namespace Eventify.WebAPI.Controllers
             return Ok();
         }
         [HttpPut("{id}")]
-        public IActionResult Update(Guid id, EventUpdateDto eventUpdateDto)
+        public IActionResult Update(Guid id, EventUpDateDto eventUpDateDto)
         {
-            _eventService.Update(id, eventUpdateDto);
+            _eventService.Update(id, eventUpDateDto);
 
             return Ok();
         }

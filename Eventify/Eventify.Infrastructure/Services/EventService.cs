@@ -89,7 +89,7 @@ namespace Eventify.Infrastructure.Services
             return eventData;
         }
 
-        public void Update(Guid Id, EventUpDateDto eventUpDateDto)
+        public void Update(Guid id, EventUpDateDto eventUpDateDto)
         {
             var existingEvent = _dbContext.Events
             .FirstOrDefault(x => x.Id == id);
@@ -97,9 +97,9 @@ namespace Eventify.Infrastructure.Services
             if (existingEvent == null)
                 throw new Exception("Event not found");
 
-            existingEvent.Title = eventUpdateDto.Title;
-            existingEvent.Description = eventUpdateDto.Description;
-            existingEvent.UpdatedAt = DateTime.UtcNow;
+            existingEvent.Title = eventUpDateDto.Title;
+            existingEvent.Description = eventUpDateDto.Description;
+            existingEvent.UpDateAt = DateTime.UtcNow;
 
             _dbContext.SaveChanges();
         }

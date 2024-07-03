@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eventify.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbbcdcb495aa563978d63a9fa35bf81928aa05dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9841e2d2f4a84290882ce723936b0ca9bf9c2a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eventify.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eventify.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

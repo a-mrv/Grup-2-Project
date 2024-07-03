@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Eventify.Application\Eventify.Application.csproj" />
     <ProjectReference Include="..\Eventify.Infrastructure\Eventify.Infrastructure.csproj" />
   </ItemGroup>
 
