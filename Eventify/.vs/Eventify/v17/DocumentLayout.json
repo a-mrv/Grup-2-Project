@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F06D4FC-BBFC-46E2-AE81-346CC8D0086A}|Eventify.WebAPI\\Eventify.WebAPI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F06D4FC-BBFC-46E2-AE81-346CC8D0086A}|Eventify.WebAPI\\Eventify.WebAPI.csproj|solutionrelative:eventify.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.infrastructure\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|solutionrelative:eventify.infrastructure\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.infrastructure\\seeders\\eventseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|solutionrelative:eventify.infrastructure\\seeders\\eventseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\dtos\\eventgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\dtos\\eventgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\dtos\\eventgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\dtos\\eventadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7F06D4FC-BBFC-46E2-AE81-346CC8D0086A}|Eventify.WebAPI\\Eventify.WebAPI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F06D4FC-BBFC-46E2-AE81-346CC8D0086A}|Eventify.WebAPI\\Eventify.WebAPI.csproj|solutionrelative:eventify.webapi\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.infrastructure\\contexts\\eventifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14D15688-8CA3-4FB1-8A6C-4AA008DDBAA4}|Eventify.Infrastructure\\Eventify.Infrastructure.csproj|solutionrelative:eventify.infrastructure\\contexts\\eventifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.application\\dtos\\eventgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B77EC10-A8D4-4721-AB19-DE921EEAD930}|Eventify.Application\\Eventify.Application.csproj|solutionrelative:eventify.application\\dtos\\eventgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F06D4FC-BBFC-46E2-AE81-346CC8D0086A}|Eventify.WebAPI\\Eventify.WebAPI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\eventify\\eventify.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,111 +74,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventUpDateDto.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventUpDateDto.cs",
-              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventUpDateDto.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventUpDateDto.cs",
-              "RelativeToolTip": "Eventify.Application\\Dtos\\EventUpDateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T13:19:06.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventsController.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.WebAPI\\Controllers\\EventsController.cs",
-              "RelativeDocumentMoniker": "Eventify.WebAPI\\Controllers\\EventsController.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.WebAPI\\Controllers\\EventsController.cs",
-              "RelativeToolTip": "Eventify.WebAPI\\Controllers\\EventsController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAQwDIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T11:07:19.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventService.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Services\\EventService.cs",
-              "RelativeDocumentMoniker": "Eventify.Infrastructure\\Services\\EventService.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Services\\EventService.cs",
-              "RelativeToolTip": "Eventify.Infrastructure\\Services\\EventService.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAowGQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T08:21:07.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EventGetByIdDto.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetByIdDto.cs",
-              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventGetByIdDto.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetByIdDto.cs",
-              "RelativeToolTip": "Eventify.Application\\Dtos\\EventGetByIdDto.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T12:38:21.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEventService.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Services\\IEventService.cs",
-              "RelativeDocumentMoniker": "Eventify.Application\\Services\\IEventService.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Services\\IEventService.cs",
-              "RelativeToolTip": "Eventify.Application\\Services\\IEventService.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAawBMAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T07:18:40.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventSeeder.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
-              "RelativeDocumentMoniker": "Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
-              "RelativeToolTip": "Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAABkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T11:46:40.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EventGetAllDto.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetAllDto.cs",
-              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventGetAllDto.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetAllDto.cs",
-              "RelativeToolTip": "Eventify.Application\\Dtos\\EventGetAllDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T08:07:08.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EventAddDto.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventAddDto.cs",
-              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventAddDto.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventAddDto.cs",
-              "RelativeToolTip": "Eventify.Application\\Dtos\\EventAddDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T07:24:55.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "EventifyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Contexts\\EventifyDbContext.cs",
               "RelativeDocumentMoniker": "Eventify.Infrastructure\\Contexts\\EventifyDbContext.cs",
@@ -191,6 +87,110 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Eventify.Infrastructure\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Services\\EventService.cs",
+              "RelativeToolTip": "Eventify.Infrastructure\\Services\\EventService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwGUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:21:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
+              "RelativeDocumentMoniker": "Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
+              "RelativeToolTip": "Eventify.Infrastructure\\Seeders\\EventSeeder.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:46:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.WebAPI\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "Eventify.WebAPI\\Controllers\\EventsController.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.WebAPI\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "Eventify.WebAPI\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:07:19.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventAddDto.cs",
+              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventAddDto.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventAddDto.cs",
+              "RelativeToolTip": "Eventify.Application\\Dtos\\EventAddDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:24:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventGetAllDto.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetAllDto.cs",
+              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventGetAllDto.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetAllDto.cs",
+              "RelativeToolTip": "Eventify.Application\\Dtos\\EventGetAllDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T08:07:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "Eventify.Application\\Services\\IEventService.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Services\\IEventService.cs",
+              "RelativeToolTip": "Eventify.Application\\Services\\IEventService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAawBMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T07:18:40.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventUpDateDto.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventUpDateDto.cs",
+              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventUpDateDto.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventUpDateDto.cs",
+              "RelativeToolTip": "Eventify.Application\\Dtos\\EventUpDateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:19:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventGetByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetByIdDto.cs",
+              "RelativeDocumentMoniker": "Eventify.Application\\Dtos\\EventGetByIdDto.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.Application\\Dtos\\EventGetByIdDto.cs",
+              "RelativeToolTip": "Eventify.Application\\Dtos\\EventGetByIdDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T12:38:21.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\Eventify\\Eventify.WebAPI\\Program.cs",
@@ -199,8 +199,7 @@
               "RelativeToolTip": "Eventify.WebAPI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T11:11:19.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T11:11:19.232Z"
             },
             {
               "$type": "Document",
