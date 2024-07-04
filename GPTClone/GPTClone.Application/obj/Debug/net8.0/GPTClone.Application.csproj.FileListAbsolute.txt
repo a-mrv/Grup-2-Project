@@ -1,0 +1,12 @@
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\bin\Debug\net8.0\GPTClone.Application.deps.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\bin\Debug\net8.0\GPTClone.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\bin\Debug\net8.0\GPTClone.Application.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.AssemblyInfoInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.AssemblyInfo.cs
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.csproj.CoreCompileInputs.cache
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.sourcelink.json
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\refint\GPTClone.Application.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\GPTClone.Application.pdb
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\GPTClone\GPTClone.Application\obj\Debug\net8.0\ref\GPTClone.Application.dll
