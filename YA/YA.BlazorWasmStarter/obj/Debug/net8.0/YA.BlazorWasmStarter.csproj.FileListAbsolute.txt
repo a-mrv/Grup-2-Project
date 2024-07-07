@@ -1030,3 +1030,4 @@ C:\Users\MERVE\Documents\GitHub\Grup-2-Project\YA\YA.BlazorWasmStarter\obj\Debug
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\YA\YA.BlazorWasmStarter\obj\Debug\net8.0\refint\YA.BlazorWasmStarter.dll
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\YA\YA.BlazorWasmStarter\obj\Debug\net8.0\YA.BlazorWasmStarter.pdb
 C:\Users\MERVE\Documents\GitHub\Grup-2-Project\YA\YA.BlazorWasmStarter\obj\Debug\net8.0\ref\YA.BlazorWasmStarter.dll
+C:\Users\MERVE\Documents\GitHub\Grup-2-Project\YA\YA.BlazorWasmStarter\obj\Debug\net8.0\scopedcss\Pages\Home.razor.rz.scp.css
