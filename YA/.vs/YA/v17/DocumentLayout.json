@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CheckBoxActionType.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:14:33.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor.css",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TimeLine.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\TimeLine.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\TimeLine.razor",
@@ -64,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SearchBar.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\SearchBar.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\SearchBar.razor",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NavBar.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\NavBar.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\NavBar.razor",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MyButton.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\MyButton.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\MyButton.razor",
@@ -109,7 +126,7 @@
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
               "RelativeToolTip": "YA.BlazorWasmStarter\\Pages\\Home.razor",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFAAAAAsAAAA",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-07T06:47:18.845Z",
               "EditorCaption": ""
