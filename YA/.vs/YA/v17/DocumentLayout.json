@@ -3,32 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\components\\icons\\materialsaveicon.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\components\\icons\\materialsaveicon.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\pages\\home.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\components\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\components\\timeline.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\components\\searchbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\components\\searchbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\enums\\checkboxactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\components\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\components\\navbar.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\components\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\components\\mybutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorwasmstarter\\enums\\cssunittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}|YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj|solutionrelative:ya.blazorwasmstarter\\enums\\cssunittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +78,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CheckBoxActionType.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T09:10:45.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Program.cs",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Program.cs",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T18:14:33.764Z",
+              "WhenOpened": "2024-07-14T09:00:57.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Home.razor",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T08:19:30.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T08:15:11.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\index.html",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-14T08:11:30.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Styles\\app.css",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Styles\\app.css",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Styles\\app.css",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\Styles\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-14T08:10:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\tailwind.config.js",
+              "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\tailwind.config.js",
+              "RelativeToolTip": "YA.BlazorOpenAIStarter\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-14T08:08:17.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Program.cs",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Program.cs",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:40:24.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Counter.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T06:33:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T06:29:48.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\_Imports.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\_Imports.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T08:43:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T06:47:18.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaterialSaveIcon.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-13T07:43:32.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T06:31:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CssUnitType.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:19:39.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor.css",
@@ -68,67 +290,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TimeLine.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\TimeLine.razor",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\TimeLine.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\TimeLine.razor",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Components\\TimeLine.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T06:51:28.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SearchBar.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\SearchBar.razor",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\SearchBar.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\SearchBar.razor",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Components\\SearchBar.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T06:51:04.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavBar.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\NavBar.razor",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\NavBar.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\NavBar.razor",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Components\\NavBar.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T06:50:34.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MyButton.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\MyButton.razor",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\MyButton.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\MyButton.razor",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Components\\MyButton.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T06:49:54.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
-              "RelativeToolTip": "YA.BlazorWasmStarter\\Pages\\Home.razor",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAAAJAAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-07T06:47:18.845Z",
+              "DocumentIndex": 15,
+              "Title": "CheckBoxActionType.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "RelativeToolTip": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:14:33.764Z",
               "EditorCaption": ""
             }
           ]
