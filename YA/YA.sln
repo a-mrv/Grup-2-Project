@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YA.BlazorWasmStarter", "YA.BlazorWasmStarter\YA.BlazorWasmStarter.csproj", "{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YA.BlazorOpenAIStarter", "YA.BlazorOpenAIStarter\YA.BlazorOpenAIStarter.csproj", "{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F219174-1CE1-4E4E-9C72-4A01EAD43F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

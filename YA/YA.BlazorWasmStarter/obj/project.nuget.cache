@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "es8cQxSJdlXnJXqR120ERl02HfYWRB2eEOfAX3RGiJ99GJuGZ6j2ogx8J3BGnAkE5z+zZR7QN3uU7qdRKW9+2Q==",
+  "dgSpecHash": "Zny39E7acxl3MRjeGEonbMTeWijXUIZQV7IsB3gsz0uS5qrjROQBKzz0tDXxbZ32JKYKxDqhsBqVZt7ITkmFWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\YA.BlazorWasmStarter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MERVE\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",

@@ -1,6 +1,10 @@
 ﻿@page "/"
 @using System.Text
+@using YA.BlazorWasmStarter.Components.Icons
 @using YA.BlazorWasmStarter.Enums
+@using YA.BlazorWasmStarter.Components
+@inject NavigationManager Navigation
+@inject IToastService ToastService
 
 <PageTitle>Home</PageTitle>
 
@@ -18,20 +22,35 @@
 
         <div class="mb-3">
             <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox1" @bind="@includeNumbers" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Numbers))">
-                <label class="form-check-label" for="inlineCheckbox1">Numbers</label>
+                <input class="form-check-input" type="checkbox" @bind="@includeNumbers" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Numbers))">
+                <label class="form-check-label">Numbers</label>
             </div>
             <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" @bind="@includeLowercase" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Lowercase))">
-                <label class="form-check-label" for="inlineCheckbox2">Lowercase</label>
+                <input class="form-check-input" type="checkbox" @bind="@includeLowercase" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Lowercase))">
+                <label class="form-check-label">Lowercase</label>
             </div>
             <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox3" @bind="@includeUppercase" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Uppercase))">
-                <label class="form-check-label" for="inlineCheckbox3">Uppercase</label>
+                <input class="form-check-input" type="checkbox" @bind="@includeUppercase" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.Uppercase))">
+                <label class="form-check-label">Uppercase</label>
             </div>
             <div class="form-check form-check-inline">
-                <input class="form-check-input" type="checkbox" id="inlineCheckbox4" @bind="@includeSpecialChars" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.SpecialChars))">
-                <label class="form-check-label" for="inlineCheckbox4">Special Chars</label>
+                <input class="form-check-input" type="checkbox" @bind="@includeSpecialChars" @oninput="@((args) => HandleCheckboxOnChange(args,CheckBoxActionType.SpecialChars))">
+                <label class="form-check-label">Special Chars</label>
+            </div>
+        </div>
+
+        <div class="container mt-4">
+            <h5 class="mb-3">Password Length</h5>
+            <div class="row align-items-center">
+                <div class="col-md-2 mb-2 mb-md-0">
+                    <input @bind=@passwordLength type="number" class="form-control" min="6" max="50" @oninput="HandlePasswordLengthInputOnChange" />
+                </div>
+                <div class="col-md-8 mb-2 mb-md-0">
+                    <input type="range" class="form-range" step="1" min="6" max="50" @bind="passwordLength" @oninput="HandleRangeOnChange" />
+                </div>
+                <div class="col-md-2">
+                    <span class="badge bg-primary fs-6">@passwordLength characters</span>
+                </div>
             </div>
         </div>
     </div>
@@ -40,11 +59,11 @@
 
 <div class="card mt-3">
     <div class="card-header">
-        💾 Saved Passwords
+        <MaterialSaveIcon Width="2" Height="2" ColourCode="#2E236C" OnClick="@HandleSaveIconClick" /> Saved Passwords
     </div>
     <div class="card-body">
         <ul class="list-group">
-            @foreach (var savedPassword in savedPasswords)
+            @foreach (var savedPassword in savedPasswords.Reverse())
             {
                 <li class="list-group-item">@savedPassword</li>
             }
@@ -89,12 +108,39 @@
         base.OnInitialized();
     }
 
+
+    private void HandleSaveIconClick()
+    {
+        Navigation.NavigateTo("/counter");
+    }
+
+    private void HandlePasswordLengthInputOnChange(ChangeEventArgs args)
+    {
+        if (args.Value is null)
+            return;
+
+        passwordLength = Convert.ToInt32(args.Value);
+
+        GeneratePassword();
+    }
+
+    private void HandleRangeOnChange(ChangeEventArgs args)
+    {
+        if (args.Value is null)
+            return;
+
+        passwordLength = Convert.ToInt32(args.Value);
+
+        GeneratePassword();
+    }
+
     private void HandleSavePasswordClick()
     {
         if (string.IsNullOrEmpty(password) || savedPasswords.Any(x => x == password))
             return;
 
         savedPasswords.Add(password);
+        ToastService.ShowInfo("The selected password saved!");
     }
 
     private void HandleCheckboxOnChange(ChangeEventArgs args, CheckBoxActionType actionType)
@@ -110,6 +156,7 @@
             CheckBoxActionType.Lowercase => includeLowercase = (bool)args.Value,
             _ => throw new ArgumentException("Geçersiz CheckBoxActionType", nameof(actionType))
         };
+
         GeneratePassword();
     }
 
@@ -138,8 +185,11 @@
         if (includeSpecialChars)
             validChars.Append(specialCharacters);
 
-        if (!includeLowercase && includeNumbers && includeSpecialChars && includeUppercase)
+        if (!includeUppercase && !includeLowercase && !includeNumbers && !includeSpecialChars)
+        {
+            includeNumbers = true;
             validChars.Append(numbers);
+        }
 
 
         for (int i = 0; i < passwordLength; i++)
@@ -182,3 +232,17 @@
         onHoverSaveCss = string.Empty;
     }
 }
+
+<style>
+    .form-range::-webkit-slider-thumb {
+        background: #0d6efd;
+    }
+
+    .form-range::-moz-range-thumb {
+        background: #0d6efd;
+    }
+
+    .form-range::-ms-thumb {
+        background: #0d6efd;
+    }
+</style>
