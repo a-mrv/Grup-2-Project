@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\YA.BlazorOpenAIStarter.styles.css"
     },
     {
+      "Id": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
       "Id": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
