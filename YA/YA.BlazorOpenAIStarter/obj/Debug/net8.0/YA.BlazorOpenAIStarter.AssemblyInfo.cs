@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YA.BlazorOpenAIStarter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f973492055ca3aec6c711415d956ba0e87bb0c5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889436fd3432f0219bf849772883e6cadbb5b26a")]
 [assembly: System.Reflection.AssemblyProductAttribute("YA.BlazorOpenAIStarter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YA.BlazorOpenAIStarter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

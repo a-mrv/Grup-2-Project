@@ -1,0 +1,65 @@
+﻿@page "/"
+@using System.ComponentModel.DataAnnotations
+@using YA.BlazorGiftSuggestionApp.Enums
+
+<PageTitle>Home</PageTitle>
+
+<h1>Birthday Gift Suggestion App</h1>
+
+<EditForm Model="formModel" OnValidSubmit="HandleFormSubmit" novalidate>
+    
+    <DataAnnotationsValidator />
+    
+    <InputSelect @bind-Value="formModel.Relationship" class="select select-bordered w-full max-w-xs">
+        <option disabled selected>Select a Relationship</option>
+        @foreach (var relationship in Enum.GetValues<RelationshipType>())
+        {
+            <option value="@relationship">@relationship.ToString()</option>
+        }
+    </InputSelect>
+    <ValidationMessage For="@(() => formModel.Relationship)" />
+    
+    <InputRadioGroup @bind-Value="formModel.Gender" class="radio radio-accent">
+        @foreach (var relationship in Enum.GetValues<Gender>())
+        {
+            <InputRadio value="@relationship" TValue="Gender"/> @relationship.ToString()
+        }
+    </InputRadioGroup>
+    <ValidationMessage For="@(() => formModel.Gender)" />
+    
+    <InputNumber @bind-Value="formModel.Age" class="input input-bordered" placeholder="Age" />
+    <ValidationMessage For="@(() => formModel.Age)" />
+
+          <InputNumber @bind-Value="formModel.Budget" class="input input-bordered" placeholder="Budget in $" />
+    <ValidationMessage For="@(() => formModel.Budget)" />
+
+
+
+</EditForm>
+
+@code
+{
+    private FormModel formModel = new FormModel();
+
+    private async Task HandleFormSubmit()
+    {
+        await Task.CompletedTask;
+    }
+
+    protected class FormModel
+    {
+        [Required]
+        [AllowedValues(RelationshipType.Friend,RelationshipType.Relative,
+            RelationshipType.Parent, RelationshipType.Brother, RelationshipType.Sister, 
+            RelationshipType.Child,RelationshipType.Spouse,RelationshipType.Colleague,RelationshipType.Other)]
+        public RelationshipType Relationship { get; set; }
+
+        [Required, Range(1, 100)] public int Age { get; set; } = default;
+
+        [Required, AllowedValues(Gender.Female, Gender.Male)]
+        public Gender Gender { get; set; } = Gender.Female;
+
+        [Required,Range(1,99999999)]
+        public double Budget { get; set; } = default;
+    }
+}

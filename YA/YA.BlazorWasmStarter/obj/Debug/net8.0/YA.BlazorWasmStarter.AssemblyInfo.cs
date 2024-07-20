@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YA.BlazorWasmStarter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1f4bce2f01916a308f58e5e6c3aa611827efd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+889436fd3432f0219bf849772883e6cadbb5b26a")]
 [assembly: System.Reflection.AssemblyProductAttribute("YA.BlazorWasmStarter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YA.BlazorWasmStarter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

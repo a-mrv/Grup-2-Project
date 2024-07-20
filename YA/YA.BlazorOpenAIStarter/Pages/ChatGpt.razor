@@ -25,7 +25,7 @@
                 <div class="bg-base-300 p-4 rounded-lg min-h-[100px]">
                     <pre><code class="text-base-content">
                             @generatedContent
-                            </code></pre>
+                                    </code></pre>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
                     ChatMessage.FromSystem("Sen şiir ve şarkı sözü yazmakta usta bir asistansın. Görevin, kullanıcıya şiir ve şarkı sözleri yazmakta yol göstermek, yardımcı olmak ve çözüm üretmektir."),
                     ChatMessage.FromUser(prompt),
                 },
-                    Model = Models.Gpt_4o,
+                    Model = OpenAI.ObjectModels.Models.Dall_e_2,
                     MaxTokens = 4096,
                 });
             if (completionResult.Successful)
