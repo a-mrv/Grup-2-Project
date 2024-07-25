@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "YA.BlazorGiftSuggestionApp",
   "resources": {
-    "hash": "sha256-ZgEp5vGRv/JU0akq5GkCvGOHsOFOPO4GWS4idQ120iI=",
+    "hash": "sha256-bM92E/2s9DUgNqnZ5zRfpnEgcffHunQ9jhMbkUJHpqg=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.i5dbjfxje3.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -215,10 +215,10 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "YA.BlazorGiftSuggestionApp.wasm": "sha256-z9uO85Mvvs8ItsQSAAVsBftqPL+nkTZN0fGhCoOgbxE="
+      "YA.BlazorGiftSuggestionApp.wasm": "sha256-qxPwtQecyZqcWtnnngS9w+DsgbKYVjolvKL80PDx3ww="
     },
     "pdb": {
-      "YA.BlazorGiftSuggestionApp.pdb": "sha256-RxJX3pXkXK8P5ZeTaBC7JBg5CS8IoDaritTxWsInhvM="
+      "YA.BlazorGiftSuggestionApp.pdb": "sha256-wIjLBA9NkvX5Xf7/ZgaZiW0NiGQlhBf3gZqmQECH7No="
     }
   },
   "cacheBootResources": true,
