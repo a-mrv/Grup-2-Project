@@ -3,6 +3,102 @@
   "WorkspaceRootPath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\pages\\wasmtranscribe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\pages\\wasmtranscribe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\transcriptioncard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\transcriptioncard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\pages\\transcribe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\pages\\transcribe.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\translatedtranscribetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\translatedtranscribetabs.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\models\\transcriptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\models\\transcriptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB08792-9646-49DA-BEF9-035DD06AA8A1}|YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB08792-9646-49DA-BEF9-035DD06AA8A1}|YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj|solutionrelative:ya.videotranscirberapp.consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\services\\transcriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\services\\transcriptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\controllers\\videoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\navigationbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\components\\navigationbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\general\\herosection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\general\\herosection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\ya.videotranscirberapp.blazorui.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{896B7825-A088-49B7-87D5-1FA66F194506}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui.client\\ya.videotranscirberapp.blazorui.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\styles\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{94827E0A-2784-470E-8C8F-3523CA244FAE}|YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.csproj|solutionrelative:ya.videotranscirberapp.blazorui\\ya.videotranscirberapp.blazorui\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB08792-9646-49DA-BEF9-035DD06AA8A1}|YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.videotranscirberapp.consoleclient\\ya.videotranscirberapp.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FB08792-9646-49DA-BEF9-035DD06AA8A1}|YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj|solutionrelative:ya.videotranscirberapp.consoleclient\\ya.videotranscirberapp.consoleclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\ya.blazorgiftsuggestionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\ya.blazorgiftsuggestionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -39,16 +135,8 @@
       "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazoropenaistarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3FF2B80-52E8-4910-83B2-F7D2ECBD031F}|YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj|solutionrelative:ya.blazoropenaistarter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\ya.blazorgiftsuggestionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|solutionrelative:ya.blazorgiftsuggestionapp\\ya.blazorgiftsuggestionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6F59D78-B011-410B-9BF1-BE56CE1E9407}|YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj|c:\\users\\merve\\documents\\github\\grup-2-project\\ya\\ya.blazorgiftsuggestionapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -154,23 +242,265 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GiftResultsModal.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-21T08:34:06.133Z"
+              "DocumentIndex": 4,
+              "Title": "TranscriptionModel.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Models\\TranscriptionModel.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Models\\TranscriptionModel.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Models\\TranscriptionModel.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Models\\TranscriptionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:22:18.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "TranslatedTranscribeTabs.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranslatedTranscribeTabs.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranslatedTranscribeTabs.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranslatedTranscribeTabs.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranslatedTranscribeTabs.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T18:18:39.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranscriptionCard.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranscriptionCard.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranscriptionCard.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranscriptionCard.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\TranscriptionCard.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T17:41:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.ConsoleClient\\Program.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.ConsoleClient\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T17:25:40.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Program.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Program.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:46:00.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transcribe.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Transcribe.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Transcribe.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Transcribe.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Transcribe.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T08:28:55.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WasmTranscribe.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Pages\\WasmTranscribe.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Pages\\WasmTranscribe.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Pages\\WasmTranscribe.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Pages\\WasmTranscribe.razor",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAJwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T09:39:40.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TranscriptionManager.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Services\\TranscriptionManager.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Services\\TranscriptionManager.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Services\\TranscriptionManager.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Services\\TranscriptionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T17:18:08.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Program.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Program.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:40:32.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VideosController.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Controllers\\VideosController.cs",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Controllers\\VideosController.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Controllers\\VideosController.cs",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Controllers\\VideosController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwAwAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:19:59.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavigationButton.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\NavigationButton.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\NavigationButton.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\NavigationButton.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\Components\\NavigationButton.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T08:19:24.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YA.VideoTranscirberApp.BlazorUI.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI.Client\\YA.VideoTranscirberApp.BlazorUI.Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T08:18:32.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T08:01:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Styles\\app.css",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Styles\\app.css",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Styles\\app.css",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Styles\\app.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T07:59:59.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:52:50.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeroSection.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\General\\HeroSection.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\General\\HeroSection.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\General\\HeroSection.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\General\\HeroSection.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:35:53.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\_Imports.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:36:32.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwBoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:50:43.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\App.razor",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\App.razor",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T07:48:43.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\wwwroot\\css\\app.css",
+              "ViewState": "AQIAAAcAAAAAAAAAAIBJwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-27T07:45:32.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\tailwind.config.js",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\tailwind.config.js",
+              "RelativeToolTip": "YA.VideoTranscirberApp.BlazorUI\\YA.VideoTranscirberApp.BlazorUI\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-27T07:40:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\App.razor",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\App.razor",
@@ -182,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 25,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Pages\\Home.razor",
@@ -190,12 +520,11 @@
               "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Pages\\Home.razor",
               "ViewState": "AQIAANQAAAAAAAAAAAAgwN8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T09:22:49.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T09:22:49.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\wwwroot\\appsettings.json",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\wwwroot\\appsettings.json",
@@ -203,72 +532,11 @@
               "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\wwwroot\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-20T10:54:18.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-20T10:54:18.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RelationshipType.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T09:21:03.638Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T09:18:35.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Program.cs",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Program.cs",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Program.cs",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-20T08:50:47.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\_Imports.razor",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\_Imports.razor",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\_Imports.razor",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-20T09:05:14.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "tailwind.config.js",
-              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\tailwind.config.js",
-              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\tailwind.config.js",
-              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\tailwind.config.js",
-              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\tailwind.config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-20T08:45:18.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 21,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\package.json",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\package.json",
@@ -280,19 +548,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
+              "Title": "YA.VideoTranscirberApp.ConsoleClient.csproj",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj",
+              "RelativeDocumentMoniker": "YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj",
+              "RelativeToolTip": "YA.VideoTranscirberApp.ConsoleClient\\YA.VideoTranscirberApp.ConsoleClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T18:19:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RelationshipType.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Enums\\RelationshipType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:21:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "YA.BlazorGiftSuggestionApp.csproj",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj",
               "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\YA.BlazorGiftSuggestionApp.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-07-21T07:04:55.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
+              "Title": "GiftResultsModal.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Components\\GiftResultsModal.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-21T08:34:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:18:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Program.cs",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Program.cs",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:50:47.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\_Imports.razor",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-20T09:05:14.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\tailwind.config.js",
+              "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\tailwind.config.js",
+              "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\tailwind.config.js",
+              "RelativeToolTip": "YA.BlazorGiftSuggestionApp\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-20T08:45:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Program.cs",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Program.cs",
@@ -304,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 35,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\Layout\\NavMenu.razor",
@@ -316,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 34,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorGiftSuggestionApp\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "YA.BlazorGiftSuggestionApp\\wwwroot\\index.html",
@@ -328,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\wwwroot\\appsettings.json",
@@ -340,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 37,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Layout\\MainLayout.razor",
@@ -352,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "Models.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Models.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\Models.razor",
@@ -364,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 44,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\wwwroot\\index.html",
@@ -376,19 +728,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 42,
               "Title": "DallE.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\DallE.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\DallE.razor",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\DallE.razor",
               "RelativeToolTip": "YA.BlazorOpenAIStarter\\Pages\\DallE.razor",
-              "ViewState": "AQIAAFQAAAAAAAAAAIBJwGMAAABAAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAIBpwGMAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-17T17:42:12.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 41,
               "Title": "ChatGpt.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\ChatGpt.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\ChatGpt.razor",
@@ -400,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 39,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\Weather.razor",
@@ -412,19 +764,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 40,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Layout\\NavMenu.razor",
               "RelativeToolTip": "YA.BlazorOpenAIStarter\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBoAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwBoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-17T17:09:23.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 43,
               "Title": "app.css",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Styles\\app.css",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Styles\\app.css",
@@ -436,19 +788,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 45,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\tailwind.config.js",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\tailwind.config.js",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\tailwind.config.js",
               "RelativeToolTip": "YA.BlazorOpenAIStarter\\tailwind.config.js",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBZwBgAAAAKAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAOBvwBgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-07-14T08:08:17.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 46,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\Home.razor",
@@ -460,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 47,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "YA.BlazorOpenAIStarter\\Pages\\Counter.razor",
@@ -472,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 53,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Program.cs",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Program.cs",
@@ -484,7 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 50,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Counter.razor",
@@ -496,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 52,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Layout\\MainLayout.razor",
@@ -508,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 48,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\_Imports.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\_Imports.razor",
@@ -520,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 49,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor",
@@ -532,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 51,
               "Title": "MaterialSaveIcon.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Components\\Icons\\MaterialSaveIcon.razor",
@@ -544,19 +896,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 55,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
               "RelativeToolTip": "YA.BlazorWasmStarter\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAIBZwCQAAAAOAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAOBvwCQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-14T06:31:11.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 57,
               "Title": "CssUnitType.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CssUnitType.cs",
@@ -568,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 54,
               "Title": "Home.razor.css",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Pages\\Home.razor.css",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Pages\\Home.razor.css",
@@ -580,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 56,
               "Title": "CheckBoxActionType.cs",
               "DocumentMoniker": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
               "RelativeDocumentMoniker": "YA.BlazorWasmStarter\\Enums\\CheckBoxActionType.cs",
