@@ -1,8 +1,8 @@
+using Blazored.Modal;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
-using YA.BlazorGiftSuggestionApp;
 using OpenAI.Extensions;
-
+using YA.BlazorGiftSuggestionApp;
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
@@ -16,5 +16,7 @@ var openAIApiKey = builder
     .Value;
 
 builder.Services.AddOpenAIService(settings => settings.ApiKey = openAIApiKey);
+
+builder.Services.AddBlazoredModal();
 
 await builder.Build().RunAsync();
