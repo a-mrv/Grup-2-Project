@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cJAZCdbhJqWOOIT8goAhIJYJBrOes97UAwZnLE3c/swG+l9uft39jBbWKIWYFWLadA5dh4s5AoZEROgmoLraXg==",
+  "dgSpecHash": "EqUe2mxBGW3K32CcXV+QHHlyrxS+1PW1JT5YeTQq5qiOJlWiV56kJS+jemvqkX3Wl5fnltfJ+G39Huq+eUu2Lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\MERVE\\Documents\\GitHub\\Grup-2-Project\\YA\\YA.BlazorOpenAIStarter\\YA.BlazorOpenAIStarter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MERVE\\.nuget\\packages\\betalgo.openai\\8.6.0\\betalgo.openai.8.6.0.nupkg.sha512",
+    "C:\\Users\\MERVE\\.nuget\\packages\\betalgo.openai\\8.6.1\\betalgo.openai.8.6.1.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "C:\\Users\\MERVE\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
